@@ -10,6 +10,7 @@ To start things of, we are giving everyone a chance to participate in building t
 To get started:
 - Fork the repository.
 - Create your website.
+- Host the site on github pages.
 - Create a pull request.
 - Share and let the community decide.
 
